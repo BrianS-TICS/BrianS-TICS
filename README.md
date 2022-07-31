@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Brian</h1>
 <h3 align="center">Desarrollador frontend junior de Mexico</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React y node**
+- 🌱 Actualmente estoy aprendiendo **react y node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/brian sanchez aguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian sanchez aguilar" height="30" width="40" /></a>
+<a href="linkedin.com/in/brian-sánchez-aguilar-2a0039228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian sanchez aguilar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
