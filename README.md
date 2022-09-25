@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Brian</h1>
 <h3 align="center">Desarrollador frontend junior de Mexico</h3>
 
-- 🌱 Actualmente estoy aprendiendo **react y node**
+- 🌱 Actualmente estoy aprendiendo **react y laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
