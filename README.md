@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Brian</h1>
-<h3 align="center">Desarrollador full stack junior de Mexico</h3>
+<h3 align="center">Desarrollador full stack de Mexico</h3>
 
 - 🌱 Actualmente estoy aprendiendo **react y laravel**
 
