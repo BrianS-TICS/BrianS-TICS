@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Brian</h1>
 <h3 align="center">Desarrollador full stack de Mexico</h3>
 
-- 🌱 Actualmente estoy aprendiendo **react y laravel**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/brian-s%C3%A1nchez-aguilar-2a0039228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian sanchez aguilar" height="30" width="40" /></a>
